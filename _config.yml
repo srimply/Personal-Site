@@ -2,7 +2,7 @@
 # in the templates available like {{ site.myvariable }}.
 title: My Personal Website
 email: rohwchawla@gmail.com
-brand: ROHIT CHAWLA
+brand: ROHIT  CHAWLA
 headline: 
 description: > # this means to ignore newlines until "baseurl:"
   New Site
@@ -20,6 +20,5 @@ snapwidget: 247552
 email: rohwchawla@gmail.com
 phone: +91-8824948368
 
-# Tracking
-googleAnalitycsID: UA-83933844-1
+
 
